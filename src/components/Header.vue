@@ -130,7 +130,7 @@
     margin: 15% auto;
     padding: 20px;
     border: 1px solid #888;
-    max-width: 300px;
+    max-width: 400px;
     color: #000;
     border-radius: 10px;
     animation: zoomIn 0.5s ease-out forwards;
