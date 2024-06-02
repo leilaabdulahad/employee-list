@@ -136,10 +136,11 @@ body {
 }
 
 .pagination button:hover:not(:disabled) {
-  background-color: #6B8A7A;
+  background-color: #475f53;
 }
 
 .pagination span {
   margin: 0 10px;
 }
 </style>
+

@@ -19,6 +19,7 @@
     "axios": "^1.7.2",
     "flowbite": "^2.3.0",
     "flowbite-vue": "^0.1.5",
+    "primeicons": "^7.0.0",
     "vue": "^3.4.21"
   },
   "devDependencies": {

@@ -155,7 +155,7 @@
     background-color: #254336;
   }
   .intern-btn:hover{
-    background-color: #6B8A7A;
+    background-color: #475f53;
   }
   
   @keyframes slideIn {
